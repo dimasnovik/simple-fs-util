@@ -90,7 +90,7 @@ Example with Maven:
 ```
 ## Build used
 - Java version: 17.0.8, vendor: Amazon.com Inc.
-- Apache Maven 3.8.1.
+- Apache Maven 3.8.1 + maven-shade-plugin 3.6.0.
 
 ## Notes
 
