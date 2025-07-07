@@ -89,8 +89,8 @@ Example with Maven:
 </dependency>
 ```
 ## Build used
-Apache Maven 3.8.1
-Java version: 17.0.8, vendor: Amazon.com Inc.
+- Java version: 17.0.8, vendor: Amazon.com Inc.
+- Apache Maven 3.8.1.
 
 ## Notes
 
