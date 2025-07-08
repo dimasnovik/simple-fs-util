@@ -77,7 +77,7 @@ If the append option (`-a`) is set, output files will be appended; otherwise, th
 
 ## Building from Source
 
-Make sure to include dependencies for Apache Commons CLI and your utility classes.
+Make sure to include dependencies for Apache Commons CLI.
 
 Example with Maven:
 
@@ -98,6 +98,4 @@ Example with Maven:
 - Empty lines are skipped.
 
 
-
-**Enjoy filtering your data easily with SimpleFilterUtil!**
 
