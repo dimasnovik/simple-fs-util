@@ -38,7 +38,7 @@ java -jar simplefilterutil.jar [options] inputFile1 [inputFile2 ...]
 ## Example
 
 ```bash
-java -jar util.jar -s -p result_ -o output_dir input1.txt input2.txt
+java -jar util.jar -s -p result_ -o output_dir in1.txt in2.txt
 ```
 
 This command will:
